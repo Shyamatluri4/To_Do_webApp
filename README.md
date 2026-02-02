@@ -9,11 +9,11 @@ The project demonstrates RESTful API design, frontend–backend integration, and
 
 > UI screenshots showcasing task creation, listing, updates, and deletion.
 
-![Todo UI 1](./screenshots/img_1.png)
-![Todo UI 2](./screenshots/img_2.png)
-![Todo UI 3](./screenshots/img_3.png)
-![Todo UI 4](./screenshots/img_4.png)
-![Todo UI 5](./screenshots/img_5.png)
+![Todo UI 1](<img width="1899" height="897" alt="Image" src="https://github.com/user-attachments/assets/66d1590f-a68f-4963-b422-34ca2f412762" />)
+![Todo UI 2](<img width="1894" height="911" alt="Image" src="https://github.com/user-attachments/assets/79a481e0-cac6-4bb8-aeaf-20fefad5c0cd" />)
+![Todo UI 3](<img width="1901" height="897" alt="Image" src="https://github.com/user-attachments/assets/0c2a261b-c2a9-4141-a68f-5b8d99aed055" />)
+![Todo UI 4](<img width="1899" height="901" alt="Image" src="https://github.com/user-attachments/assets/d35f9a8b-abac-4c2d-bc44-dbc743d63d78" />)
+![Todo UI 5](<img width="1895" height="890" alt="Image" src="https://github.com/user-attachments/assets/5a48c492-0ed1-45bb-bdbe-ddd688f1ccb9" />)
 
 ---
 
