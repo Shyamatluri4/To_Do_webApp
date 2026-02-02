@@ -76,37 +76,37 @@ To_Do-webApp/
 ### Installation
 
 1. **Clone the repository:**
-   `bash
+```bash
 git clone <repository-url>
 cd To_Do-webApp
-`
+```
 
 2. **Backend Setup:**
-   `bash
+```bash
 cd To_Do_webApp
 mvn clean install
-`
+```
 
 3. **Frontend Setup:**
-   `bash
+```bash
 cd react
 npm install
-`
+```
 
 ### Running the Application
 
 1. **Start the Backend:**
-   `bash
+```bash
 cd To_Do_webApp
 mvn spring-boot:run
-`
+```
    The backend will run on [http://localhost:8080](http://localhost:8080).
 
 2. **Start the Frontend:**
-   `bash
+```bash
 cd react
 npm start
-`
+```
    The frontend will run on [http://localhost:3000](http://localhost:3000).
 
 3. Open your browser and navigate to http://localhost:3000 to use the application.
@@ -130,20 +130,14 @@ For detailed API documentation, see the backend README: [To_Do_webApp/README.md]
 
 ### Backend Tests
 
-`bash
+```bash
 cd To_Do_webApp
 mvn test
-`
+```
 
 ### Frontend Tests
 
-`bash
+```bash
 cd To_Do_webApp/react
 npm test
-`
-
----
-
-## Contact
-
-If you have any questions or suggestions, feel free to open an issue or contact the maintainers.
+```
